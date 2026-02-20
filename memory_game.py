@@ -14,7 +14,7 @@ Core features planned:
 - Optional hint feature
 """
 
-print("Memory Matching Game Project Starting...")
+
 
 # TODO:
 # Implement board setup
@@ -23,3 +23,12 @@ print("Memory Matching Game Project Starting...")
 # Implement reshuffle feature
 # Implement scoring system
 
+def main():
+    print("Memory Matching Game")
+    print("CMPS-1100 Foundations of Programming")
+    print("Starter scaffold loaded successfully.")
+    print("Next step: implement board setup and game loop.")
+
+
+if __name__ == "__main__":
+    main()
